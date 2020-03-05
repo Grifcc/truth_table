@@ -1,8 +1,8 @@
 # true_table
 ##  第一版发布
  - GUI版
- - 基本逻辑运算
- ***先以撤销***
+ - 基本逻辑运算  
+ ***现已撤销***
 ## 第二版发布
 https://github.com/Maxwell1280/truth_table/releases/tag/V2.0.1
 
