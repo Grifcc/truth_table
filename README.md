@@ -5,7 +5,7 @@ https://github.com/Maxwell1280/truth_table/releases
  - 基本逻辑运算
 
 ## 第二版发布
-https://github.com/Maxwell1280/truth_table/releases
+https://github.com/Maxwell1280/truth_table/releases/tag/V2.0.1
 
 
 + 更新
