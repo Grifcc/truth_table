@@ -1,7 +1,7 @@
 # true_table
 ##  第一版发布
- - GUI版
- - 基本逻辑运算  
+ + GUI版
++ 基本逻辑运算  
  ***现已撤销***
 ## 第二版发布
 https://github.com/Maxwell1280/truth_table/releases/tag/V2.0.1
@@ -16,6 +16,21 @@ https://github.com/Maxwell1280/truth_table/releases/tag/V2.0.1
 
 + 优化
 + + 图标优化
++ + 部分代码优化
+
++ 后续需改进
++ + 代码重构，提高复用性
++ + UI优化
++ + 改进部分功能  
+***现已撤销***
+
+
+## 第三次更新
+https://github.com/Maxwell1280/truth_table/releases/tag/V2.1.0
+
++ 修复
++ + 修复已知BUG
++ + 更改卡诺图错误
 + + 部分代码优化
 
 + 后续需改进
