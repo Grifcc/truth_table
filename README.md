@@ -37,3 +37,16 @@ https://github.com/Maxwell1280/truth_table/releases/tag/V2.1.0
 + + 代码重构，提高复用性
 + + UI优化
 + + 改进部分功能
+
+## 第三次更新
+https://github.com/Maxwell1280/truth_table/releases/tag/V3.2.0
+
++ 修复
++ + 修复已知BUG
++ + 更改逻辑函数表达式变量不连续错误
++ + 代码重构
++ + 内存优化
+
++ 更新
++ + 真值表增加手动输入功能
++ + 增加 &nbsp;***\****&nbsp; 可省功能
